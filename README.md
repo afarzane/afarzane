@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Amirali
-#### I'm a junior Systems Engineer with a strong background in C++ software development.
+#### I'm a junior Systems Engineer with a strong background in C++.
 I have developed a keen interest in the field of UI/UX development and game development utilizing C++ in Unreal Engine 5. Currently, I am actively engaged in acquiring proficiency in these two areas and eagerly anticipate delving into further complexities and advancements within these domains.
 
 Skills: C++ / MATLAB / NODE JS / REACT 
