@@ -1,11 +1,19 @@
 ### Hi there 👋, my name is Amirali
-#### I'm a junior Systems Engineer with a strong background in C++.
-I have developed a keen interest in the field of UI/UX development and game development utilizing C++ in Unreal Engine 5. Currently, I am actively engaged in acquiring proficiency in these two areas and eagerly anticipate delving into further complexities and advancements within these domains.
+#### I'm a junior Systems Engineer with a strong background in C/C++, MATLAB, Signal Processing, and Robotics.
+I have developed a keen interest in embedded systems and robotics.
+Currently, I am working on a 6-axis robotic arm that will grab and hand-in a tool based on vocal commands. I am in stages of...
+  -  Developing a mechanical prototype through 3D printing the designed arm
+     -  Printing a planetary gearbox for the base joint stepper motor
+     -  Optimizing designs in Fusion 360
+  -  Embedded electronics
+     -  Adding hardware interrupts
+     -  Position feedbacks from servo motors
+     -  Overvoltage protection circuit for Raspberry Pi 4.)
 
-Skills: C++ / MATLAB / NODE JS / REACT 
+Skills: C/C++ / MATLAB / Python / VHDL  
 
-- 🌱 I’m currently learning https://github.com/afarzane/React-Practice 
-- 👯 I’m looking to collaborate on making first/third person shooter video games 
+- 🌱 Currently learning ROS 2, Altium Designer, and Robotics Electronics 
+- 👨‍🔧 Registered as an Engineer-In-Training (Awaiting application approval)
 - 📫 How to reach me: afarzane@sfu.ca 
 
 
