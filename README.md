@@ -14,7 +14,7 @@ Skills: C/C++ / MATLAB / Python / VHDL
 
 - 🌱 Currently learning ROS 2, Altium Designer, and Robotics Electronics 
 - 👨‍🔧 Registered as an Engineer-In-Training (Awaiting application approval)
-- 📫 How to reach me: afarzane@sfu.ca 
+- 📫 How to reach me: amiralifarzaneh26@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/afarzane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afarzane//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/afarzane)  
