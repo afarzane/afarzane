@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Amirali
+### Hi there 👋, my name is Amirali Farzaneh
 #### I'm a junior Systems Engineer with a strong background in C/C++, MATLAB, Signal Processing, and Robotics.
 I have developed a keen interest in embedded systems and robotics.
 Currently, I am working on a 6-axis robotic arm that will grab and hand-in a tool based on vocal commands. I am in stages of...
@@ -13,7 +13,7 @@ Currently, I am working on a 6-axis robotic arm that will grab and hand-in a too
 Skills: C/C++ / MATLAB / Python / VHDL  
 
 - 🌱 Currently learning ROS 2, Altium Designer, and Robotics Electronics 
-- 👨‍🔧 Aspiring P.Eng, registered as an Engineer-In-Training (Awaiting application approval)
+- 👨‍🔧 Aspiring P.Eng, registered as an Engineer-In-Training
 - 📫 How to reach me: amiralifarzaneh26@gmail.com 
 
 
