@@ -8,7 +8,7 @@ Currently, I am working on a 6-axis robotic arm that will grab and hand-in a too
   -  Embedded electronics
      -  Adding hardware interrupts
      -  Position feedbacks from servo motors
-     -  Overvoltage protection circuit for Raspberry Pi 4.)
+     -  Overvoltage protection circuit for Raspberry Pi 4.
 
 Skills: C/C++ / MATLAB / Python / VHDL  
 
