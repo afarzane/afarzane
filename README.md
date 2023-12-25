@@ -10,7 +10,7 @@ Currently, I am working on a 6-axis robotic arm that will grab and hand-in a too
 
 Skills: C/C++ / MATLAB / Python / VHDL  
 
-- 🌱 Currently learning ROS 2, Altium Designer, and Robotics Electronics 
+- 🌱 Currently learning Rust and Embedded C using MSP430
 - 👨‍🔧 Aspiring P.Eng, registered as an Engineer-In-Training
 - 📫 How to reach me: amiralifarzaneh26@gmail.com 
 
