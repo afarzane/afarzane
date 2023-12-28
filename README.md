@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amirali Farzaneh
 #### I'm a junior Systems Engineer with a strong background in C/C++, MATLAB, Signal Processing, and Quality Assurance.
-I have developed a keen interest in embedded systems and robotics.
+I have developed a keen interest in embedded systems, computer vision, and robotics.
 Currently, I am working on a 6-axis robotic arm that will grab and hand-in a tool based on vocal commands. I am in stages of...
   -  Developing a mechanical prototype through 3D printing the designed arm
      -  Optimizing designs in Fusion 360 for development of kinematics algorithms.
@@ -10,7 +10,7 @@ Currently, I am working on a 6-axis robotic arm that will grab and hand-in a too
 
 Skills: C/C++ / MATLAB / Python / VHDL  
 
-- 🌱 Currently learning Rust and Embedded C using MSP430
+- 🌱 Currently learning Rust, YOLOv3 Object-detection in Python, and Embedded C using MSP430
 - 👨‍🔧 Aspiring P.Eng, registered as an Engineer-In-Training
 - 📫 How to reach me: amiralifarzaneh26@gmail.com 
 
